@@ -1,0 +1,2 @@
+# tkinter est fourni avec Python (sous Linux : sudo apt install python3-tk)
+matplotlib>=3.5   # uniquement pour src/08_graphique_frequences.py
